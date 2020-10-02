@@ -11,8 +11,8 @@
 * ssh-copy-id -i ~/.ssh/id_rsa.pub pi@raspberrypi.local
 * sudo raspi-config
   * 8. Update
-* apt update
-* apt upgrade
+* sudo apt update
+* sudo apt upgrade
 
   
   
