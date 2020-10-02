@@ -9,6 +9,7 @@
 *  ssh pi@raspberrypi.localで入れるようになる。
 * ssh-keygen -t rsa -b 4096
 * ssh-copy-id -i ~/.ssh/id_rsa.pub pi@raspberrypi.local
+* パスワード無しで入れるようになる。
 * sudo raspi-config
   * 8.Update
 * sudo apt update
